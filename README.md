@@ -2,8 +2,8 @@
 A solution for all the Mental Illness
 
 UI Code in branch Mental-Health-UI
-API Code in branch Mental-Health-API
 
+API Code in branch Mental-Health-API
 
 
 ## Contents
@@ -37,7 +37,7 @@ A self assessment test carefully created in the beginning will lead you through 
 
 ## Demo video
 
-[![Watch the video](https://github.com/sahajoydeep2002/Alive/blob/main/earth.jpeg)](https://youtu.be/5AidP-2GsTk)
+[![Watch the video](https://github.com/sahajoydeep2002/Alive/blob/main/earth.jpeg)](https://youtu.be/_NZCsSojzf0)
 
 ## The architecture
 Recommendation System Architecture
