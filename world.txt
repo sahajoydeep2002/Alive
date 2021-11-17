@@ -1,1 +1,1 @@
-git checkout other_branch world.txt # git checkout <Alive-UI> <https://github.com/sahajoydeep2002/Alive/tree/main/src%202>
+git checkout Alive-UI world.txt # git checkout <Main> <https://github.com/sahajoydeep2002/Alive/tree/main/src%202>
