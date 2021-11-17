@@ -1,1 +1,0 @@
-git checkout Alive-UI world.txt # git checkout <main> <https://github.com/sahajoydeep2002/Alive/tree/main/src%202>
