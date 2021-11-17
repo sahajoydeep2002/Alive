@@ -59,7 +59,7 @@ Stress Management Architecture
 
 ## Project roadmap
 
-![Roadmap](https://github.com/sahajoydeep2002/Alive/raw/main/MentalHealthApp%20(1).pptx)
+![Roadmap](https://github.com/sahajoydeep2002/Alive/raw/main/MentalHealthApp%20.pptx)
 
 ## Getting started
 
