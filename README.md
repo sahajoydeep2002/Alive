@@ -52,11 +52,6 @@ Stress Management Architecture
 
 ![Video transcription/translation app](https://github.com/sahajoydeep2002/Alive/blob/main/stress.png)
 
-
-## Long description
-
-[More detail is available here](https://github.com/sahajoydeep2002/Alive/raw/main/MentalHealthApp%20(1).pptx)
-
 ## Project roadmap
 
 ![Roadmap](https://github.com/sahajoydeep2002/Alive/raw/main/MentalHealthApp.pptx)
